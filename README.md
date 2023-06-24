@@ -1,1 +1,1 @@
-
+This project is a modification of EdgeCloudSim Simulator to implement an optimization algorithm to improve the utilization of edge computing resources globally. The algorithm allocates the IoT tasks so that the number of edge computing servers is reduced, where it can handle the unpredictable and dynamic nature of edge computing systems due to its low reallocation overhead.
